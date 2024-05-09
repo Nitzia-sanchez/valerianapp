@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356945892192",
+    "project_id": "cinevali",
+    "storage_bucket": "cinevali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356945892192:android:646258d9df888cfe5f0405",
+        "android_client_info": {
+          "package_name": "com.example.valerianapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzDJW3iYsJLqU_NPeEJH1jFYos4qqflA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
